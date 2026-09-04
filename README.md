@@ -36,4 +36,6 @@ Root Mean Squared Logarithmic Error (RMSLE)
 
 ## Author
 
-Arun — BS Data Science and Applications, IIT Madras
+Arun Sankar E K
+
+— BS Data Science and Applications, IIT Madras

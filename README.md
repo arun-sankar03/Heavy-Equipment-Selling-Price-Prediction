@@ -1,22 +1,10 @@
-# Equipment Sale Price Prediction
+# Heavy-Equipment-Selling-Price-Prediction
 
 Predicting resale prices of heavy equipment using a machine learning pipeline evaluated on RMSLE (Root Mean Squared Logarithmic Error).
 
 ## Overview
 
-This project builds an end-to-end regression pipeline to predict equipment sale prices from historical auction/transaction data. It covers data cleaning, feature engineering, model training, and prediction blending.
-
-## Project Structure
-
-root/
-├── data/
-│ ├── train.csv
-│ ├── test.csv
-│ ├── metadata.csv
-│ └── sample_submission.csv
-├── notebook.ipynb
-└── README.md
-
+This project builds an end-to-end regression pipeline to predict equipment sale prices from historical auction/transaction data. It covers data cleaning, feature engineering, model building, hyperparameter tuning, and prediction blending.
 
 ## Workflow
 
